@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi, I'm Miguel Sousa
+I'm a software developer who loves learning and exploring new technologies. I'm currently looking to give back to the community by contributing to the open-source projects I use daily.
 
+![My Skills](https://skillicons.dev/icons?i=java,go,kubernetes)
 <!--
 **MiguelLMSousa/MiguelLMSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
